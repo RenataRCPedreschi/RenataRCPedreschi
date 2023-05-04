@@ -5,7 +5,7 @@
 - 🔭 Desenvolvedora Full Stack
 - 🌱 Estudando React.js e Node.js no bootcamp da SoulCode Academy
 - 📫 Contatos: renatarabelocastro@gmail.com
-- 😄 Pronouns: Ela/ Dela
+- 😄 Pronouns: Ela/ Dela / She/ Her
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenataRCPedreschi&show_icons=true&theme=dracula)
