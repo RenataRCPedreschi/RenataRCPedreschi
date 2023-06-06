@@ -3,7 +3,7 @@
 
 
 - 🔭 Desenvolvedora Full Stack
-- 🌱 Estudando React.js e Node.js no bootcamp da SoulCode Academy
+- 🌱 Estudando React.js e Node.js 
 - 📫 Contatos: renatarabelocastro@gmail.com
 - 😄 Pronouns: Ela/ Dela / She/ Her
 
