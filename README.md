@@ -6,8 +6,15 @@
 - 🌱 Estudando React.js e Node.js 
 - 📫 Contatos: renatarabelocastro@gmail.com
 - 😄 Pronouns: Ela/ Dela / She/ Her
+</br>
+</br>
 
- 
+## Hello, meus queridos Devs!!
+  Tenho 30 anos, sou de São Paulo, capital e estou em transição de carreira! Amo teatro, gatos, literatura e estou de cabeça na programação! Atualmente aprendendo, criando bugs, me desesperando e amando cada vez mais tudo que estou fazendo nesse mundão de programador!
+
+ <p align="center">
+  <img src="https://tenor.com/btJv6.gif" width="350">
+</p>
 
 
 ##
