@@ -7,6 +7,14 @@
 - 📫 Contatos: renatarabelocastro@gmail.com
 - 😄 Pronouns: Ela/ Dela / She/ Her
 </br>
+
+
+<div>
+  <a href="https://www.linkedin.com/in/renata-castrorp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.instagram.com/renata_rabelocastro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+
 </br>
 
 ## Hello, meus queridos Devs!!
@@ -22,6 +30,7 @@
 ##
 <p align="center">
 <a href="https://github.com/RenataRCPedreschi">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenataRCPedreschi&hide_border=true&theme=tokyonight&hide=stars,commits,prs,issues,contribs,date" height="180em"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RenataRCPedreschi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RenataRCPedreschi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
