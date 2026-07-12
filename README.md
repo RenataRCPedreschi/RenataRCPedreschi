@@ -18,7 +18,9 @@
 </br>
 
 ## Hello, meus queridos Devs!!
-  Tenho 30 anos, sou de São Paulo, capital e estou em transição de carreira! Amo teatro, gatos, literatura e estou de cabeça na programação! Atualmente aprendendo, criando bugs, me desesperando e amando tudo isso cada vez mais!
+  O bom filho a casa torna!
+  Depois de 3 anos longe da programação, cá estou eu, muito mais madura e paciente!
+  Sou de São Paulo, capital e estou em transição de carreira! Amo teatro, gatos, literatura e tecnologia! Atualmente aprendendo, criando bugs, me desesperando e amando tudo isso cada vez mais!
 
 </br>
 </br>
