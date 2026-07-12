@@ -6,7 +6,7 @@
 - 🌱 Estudando React.js e Node.js 
 - 📫 Contatos: renatarabelocastro@gmail.com
 - 😄 Pronouns: Ela/ Dela / She/ Her
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bb8715b0-a32f-4ea0-bd5f-3a871e43c4e7" /> https://www.linkedin.com/in/renata-castrorp/
+- <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/bb8715b0-a32f-4ea0-bd5f-3a871e43c4e7" /> https://www.linkedin.com/in/renata-castrorp/
 
 </br>
 
