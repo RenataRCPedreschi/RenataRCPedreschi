@@ -3,7 +3,7 @@
 
 
 - 🔭 Desenvolvedora Full Stack
-- 🌱 Estudando React.js e Node.js 
+- 🌱 Estudante Análise e desenvolvimento de sistemas 
 - 📫 Contatos: renatarabelocastro@gmail.com
 - 😄 Pronouns: Ela/ Dela / She/ Her
 
