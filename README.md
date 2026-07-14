@@ -3,7 +3,7 @@
 
 
 - 🔭 Desenvolvedora Full Stack
-- 🌱 Estudante Análise e desenvolvimento de sistemas 
+- 🌱 Estudante de Análise e desenvolvimento de sistemas 
 - 📫 Contatos: renatarabelocastro@gmail.com
 - 😄 Pronouns: Ela/ Dela / She/ Her
 
